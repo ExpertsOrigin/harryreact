@@ -26,8 +26,11 @@ settext(event.target.value);
 
 <div className="container my-2">
     <h1>your text summary</h1>
-    <p>{text.length} words </p>
+    
 </div>
+
+
+{/* SHA256:gpoRTzojuKI+QOJLqYZRb+7RDmySuDbPFvLZ1EEJmcg */}
     </>
   )
 }
